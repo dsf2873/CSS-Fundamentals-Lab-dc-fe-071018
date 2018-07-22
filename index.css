@@ -34,6 +34,6 @@ figcaption{
   text-align:center;
   
 }
-#featured-property p {
+#featured-property .center p {
   width: 800px;
 }
