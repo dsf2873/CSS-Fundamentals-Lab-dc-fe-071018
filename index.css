@@ -34,3 +34,6 @@ figcaption{
   text-align:center;
   
 }
+#featured-property p {
+  width: 800px;
+}
