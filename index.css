@@ -16,6 +16,11 @@ nav ul {
     display: inline-block;
 }
 
+nav ul li{
+  padding-left: 10px;
+  padding-right:10px;
+}
+
 .center {
     display: block;
     margin-left: auto;
