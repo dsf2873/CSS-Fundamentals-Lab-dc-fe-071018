@@ -36,4 +36,5 @@ figcaption{
 }
 #featured-property .center p {
   width: 800px;
+  text-align:center;
 }
