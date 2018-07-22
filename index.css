@@ -43,9 +43,9 @@ section #details{
   display: block;
 }
 
-section #details div{
+section #details div {
   float:left;
   width:25%;
-  
+  background-color: yellow;
 }
   
